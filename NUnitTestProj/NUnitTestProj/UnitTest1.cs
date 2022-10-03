@@ -22,5 +22,7 @@ namespace NUnitTestProj
         {
             Console.WriteLine("Test1");
         }
+        [Test]
+        public void AddNewTest2() { }
     }
 }

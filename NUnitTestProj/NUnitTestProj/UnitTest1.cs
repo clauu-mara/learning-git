@@ -17,5 +17,10 @@ namespace NUnitTestProj
         {
             Assert.Fail();  
         }
+        [Test]
+        public void AddNewTest1()
+        {
+            Console.WriteLine("Test1");
+        }
     }
 }

@@ -12,5 +12,10 @@ namespace NUnitTestProj
         {
             Assert.Pass();
         }
+        [Test]
+        public void AddNewTest()
+        {
+            Assert.Fail();  
+        }
     }
 }

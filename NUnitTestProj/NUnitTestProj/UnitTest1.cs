@@ -25,7 +25,8 @@ namespace NUnitTestProj
         [Test]
         public void AddNewTest2() {
             Console.WriteLine("Test for branch2");
+            Assert.Pass();
         }
-
+        
     }
 }

@@ -23,6 +23,12 @@ namespace NUnitTestProj
             Console.WriteLine("Test1");
         }
         [Test]
-        public void AddNewTest2() { }
+        public void AddNewTest2() {
+            Console.WriteLine("Test for branch2");
+            Assert.Pass();
+        }
+        [Test]
+        public void AddNewTest3()
+        { Console.WriteLine("New commit on branch2"); }
     }
 }

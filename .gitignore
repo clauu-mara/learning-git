@@ -1,1 +1,40 @@
 /NUnitTestProj/.vs/NUnitTestProj/FileContentIndex/60254e21-a337-403f-9d05-b7b37b51e525.vsidx
+/NUnitTestProj/.vs/NUnitTestProj/DesignTimeBuild/.dtbcache.v2
+/NUnitTestProj/.vs/NUnitTestProj/FileContentIndex/22b6ce15-480c-456e-954c-99227fd727ea.vsidx
+/NUnitTestProj/.vs/NUnitTestProj/v17/.suo
+/NUnitTestProj/.vs/NUnitTestProj/v17/TestStore/0/000.testlog
+/NUnitTestProj/.vs/NUnitTestProj/v17/.futdcache.v1
+/NUnitTestProj/.vs/NUnitTestProj/v17/.suo
+/NUnitTestProj/.vs/NUnitTestProj/v17/TestStore/0/000.testlog
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/

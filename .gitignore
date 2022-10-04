@@ -38,3 +38,4 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+/NUnitTestProj/.vs/NUnitTestProj/DesignTimeBuild/.dtbcache.v2

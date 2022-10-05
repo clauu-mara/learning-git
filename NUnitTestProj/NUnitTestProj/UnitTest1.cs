@@ -32,5 +32,10 @@ namespace NUnitTestProj
         { Console.WriteLine("New commit on branch2");
             Console.WriteLine("New2 commit on branch2");
         }
+        [Test]
+        public void AddNewTest4()
+        {
+            Console.WriteLine("Stashing");
+        }
     }
 }

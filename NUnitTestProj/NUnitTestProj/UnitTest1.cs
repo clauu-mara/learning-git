@@ -29,6 +29,8 @@ namespace NUnitTestProj
         }
         [Test]
         public void AddNewTest3()
-        { Console.WriteLine("New commit on branch2"); }
+        { Console.WriteLine("New commit on branch2");
+            Console.WriteLine("New2 commit on branch2");
+        }
     }
 }
